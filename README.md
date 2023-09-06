@@ -22,8 +22,9 @@ How to sign up:
 
 Integrations:
 1. PingBell can be integrated with any app or website via our webhooks.
-2. We also offer a Zapier integration >> https://pingbell.io/zapier
-3. We also offer a Pabbly integration >> https://pingbell.io/pabbly
+2. API Documentation >> https://pingbell.io/docs/pingbell-api
+3. We also offer a Zapier integration >> https://pingbell.io/zapier
+4. We also offer a Pabbly integration >> https://pingbell.io/pabbly
 
 Questions?
 Email us hi[at]pingbell[dot]io
