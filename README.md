@@ -1,5 +1,7 @@
 # PingBell
 
+![pingbell](https://github.com/yoavshalev/PingBell/assets/9486858/c70275ff-54e9-4004-a57c-62efed1e4625)
+
 https://PingBell.io is a platform for that enables you to send customized push notifications to a defined team of people.
 
 Popular use cases:
