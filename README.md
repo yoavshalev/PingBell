@@ -16,7 +16,7 @@ Benefits of using the service:
 4. Customized notification message. During you PingBell setup you can define the custom title and message your push notification will carry.
 5. Brower notifications! You can also get the notifications in your browser if you choose to.
 
-Demo:
+Watch the video demo on YouTube:
 [![Watch the video](https://img.youtube.com/vi/8wDPjovyFtA/maxresdefault.jpg)](https://youtu.be/8wDPjovyFtA)
 
 How to sign up:
