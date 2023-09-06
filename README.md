@@ -1,6 +1,6 @@
 # PingBell
 
-PingBell.io is a platform for that enables you to send customized push notifications to a defined team of people.
+https://PingBell.io is a platform for that enables you to send customized push notifications to a defined team of people.
 
 Popular use cases:
 1. Sales notification - get alerted via push notification when a new order is logged on a website or app.
